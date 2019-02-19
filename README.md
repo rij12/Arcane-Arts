@@ -1,7 +1,8 @@
 # Arcane-Arts
 Exploring the Arcane arts of programming 
 
-A Repo of different lanauges performing different types to discover the arts. 
+A general scratch repo. 
+
 
 * Data structures 
 * Algorithms 
